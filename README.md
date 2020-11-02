@@ -1,6 +1,8 @@
 # ghoststorychat
 App based on Express and ejs
 
+## Hey I am Neelam, Please Follow below instructions to build this app
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed.

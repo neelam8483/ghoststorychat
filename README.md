@@ -1,7 +1,8 @@
 # ghoststorychat
 App based on Express and ejs
 
-## Hey I am Neelam, Please Follow below instructions to build this app
+## Hey I am Neelam
+Please Follow below instructions to build this app
 
 ## Running Locally
 

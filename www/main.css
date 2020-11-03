@@ -5,12 +5,12 @@
   clear: both;
   outline: none !important;
   color: white;
-  background-color: black;
+  background-color: #3f4441;
   font-family: sans-serif;
 }
 
 html {
-  background-color: #f3f5f6;
+  background-color: #e8e8e8;
 }
 
 main {
@@ -24,7 +24,7 @@ main {
   transform: translate(-50%, -50%);
   border: 2px solid black;
   border-radius: 20px;
-  box-shadow: 5px 5px 10px 2px #6d6d6d;
+  box-shadow: 6px 10px 10px 2px #495464;
 }
 
 #message-container,
@@ -81,7 +81,7 @@ main {
   width: 15px;
   height: 7px;
   bottom: -7px;
-  background-color: black;
+  background-color:#3f3f44;
 }
 
 .from-server p {
@@ -173,13 +173,16 @@ main {
   transition: width 0.3s;
   z-index: 1;
 }
-#clear:hover {
-  width: 75px;
-}
-
 #clear .fa {
   color: white !important;
   font-size: 1.5rem;
+}
+#clear:hover {
+  width: 75px;
+  color:#ec0101 !important;
+}
+#clear:hover .fa {
+  color:#ec0101  !important;
 }
 
 /* Phone top & bottom */
